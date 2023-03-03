@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-ordersummarycomponent-7fq89zorZK)
 - Live Site URL: [Live site URL](https://singhfatehbir.github.io/Order-Summary-Component/)
 
 ### Built with
